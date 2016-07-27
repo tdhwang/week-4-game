@@ -1,0 +1,43 @@
+body {
+	background-image: url("../../assets/images/381583.jpg");
+}
+
+h1 {
+	color: red;
+}
+
+h3 {
+	color: red;
+}
+span {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+.yourscore {
+	clear: both;
+	color: white;
+}
+
+#gamenumber, #scorebox  {
+	color: white;
+}
+
+#redcrystal {
+	float: left;
+}
+
+#bluecrystal {
+	float: left;
+}
+
+#yellowcrystal {
+	float: left;
+}
+
+#greencrystal {
+	float: left;
+}
